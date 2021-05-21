@@ -1,0 +1,16 @@
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.exe
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.deps.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.runtimeconfig.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.runtimeconfig.dev.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\ref\Anagrams.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\bin\Debug\net5.0\Anagrams.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.csprojAssemblyReference.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfoInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfo.cs
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.csproj.CoreCompileInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\ref\Anagrams.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\AnagramsKata\Anagrams\obj\Debug\net5.0\Anagrams.genruntimeconfig.cache
