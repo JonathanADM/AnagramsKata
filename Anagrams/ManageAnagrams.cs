@@ -21,7 +21,7 @@ namespace Anagrams
 
         public void SortAndAddWords(string word, Dictionary<string, List<string>> myDictionary)
         {
-            string newWord = word.ToLower();
+            string newWord = word;
             newWord = new string(newWord.OrderBy(x => x).ToArray());
 
             if (myDictionary.ContainsKey(newWord))
