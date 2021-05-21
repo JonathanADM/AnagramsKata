@@ -16,7 +16,6 @@ namespace Anagrams
         {
             SortAndAddWords(word, myDictionary);
             
-
             return myDictionary;
         }
 
@@ -45,12 +44,10 @@ namespace Anagrams
             {
                 if (set.Value.Count > 1)
                 {
-                    Console.WriteLine(string.Join(" ", set.Value));
+                    Console.WriteLine(string.Join(" , ", set.Value));
                     CountSets++;
                 }
             }
         }
-
-       
     }
 }

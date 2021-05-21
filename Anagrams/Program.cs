@@ -16,13 +16,8 @@ namespace Anagrams
 
             manageFile.GetPath(args);
 
-
             timer.Stop();
             Console.WriteLine($"Cantidad de tiempo: {timer.Elapsed}");
-            Console.WriteLine($"Cantidad de palabras: {manageFile.CountFile}");
-            Console.WriteLine($"Cantidad de sets: {manageAnagrams.CountSets}");
-
-
         }
     }
 }

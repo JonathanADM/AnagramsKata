@@ -29,14 +29,16 @@ namespace Anagrams
                     CountFile++;
                     manageAnagrams.AnagramsDic(word);
                 }
+                sr.Close();
                 manageAnagrams.PrintDic();
 
-                sr.Close();
+                Console.WriteLine("---------------------------------------");
+                Console.WriteLine($"Cantidad de palabras: {CountFile}");
+                Console.WriteLine($"Cantidad de sets: {manageAnagrams.CountSets}");
             }
             else
                 throw new FileNotFoundException("No se encontro el archivo de texto");
 
         }
-
     }
 }
