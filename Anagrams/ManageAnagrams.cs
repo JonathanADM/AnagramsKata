@@ -8,6 +8,8 @@ namespace Anagrams
 {
     public class ManageAnagrams
     {
+        public int CountSets { get; set; }
+
         public Dictionary<string, List<string>> myDictionary = new Dictionary<string, List<string>>();
 
         public Dictionary<string, List<string>> AnagramsDic(string word)
@@ -29,10 +31,6 @@ namespace Anagrams
                 {
                     myDictionary[newWord].Add(word);
                 }
-                //if (myDictionary[newWord].Count > 1)
-                //{
-                //    anagrams[newWord] = myDictionary[newWord];
-                //}
             }
             else
             {
@@ -48,6 +46,7 @@ namespace Anagrams
                 if (set.Value.Count > 1)
                 {
                     Console.WriteLine(string.Join(" ", set.Value));
+                    CountSets++;
                 }
             }
         }

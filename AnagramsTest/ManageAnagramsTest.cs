@@ -15,7 +15,6 @@ namespace AnagramsTest
             {
                 ["moor"] = new List<string>() { "romo", "moro" },
                 ["aaehlluy"] = new List<string>() { "aleluyah"},
-                ["ahlo"] = new List<string>() { "hola", "ohla", "loah"}
             };
         }
 

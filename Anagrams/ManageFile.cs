@@ -9,6 +9,7 @@ namespace Anagrams
 {
     public class ManageFile
     {
+        public int CountFile { get; set; }
         public void GetPath(string[] args)
         {
             if (args[0] == null)
@@ -25,8 +26,11 @@ namespace Anagrams
                 while (!sr.EndOfStream)
                 {
                     string word = sr.ReadLine();
+                    CountFile++;
                     manageAnagrams.AnagramsDic(word);
                 }
+                manageAnagrams.PrintDic();
+
                 sr.Close();
             }
             else

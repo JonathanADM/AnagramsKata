@@ -10,18 +10,18 @@ namespace Anagrams
         {
             ManageFile manageFile = new ManageFile();
             ManageAnagrams manageAnagrams = new ManageAnagrams();
+            
             Stopwatch timer = new Stopwatch();
             timer.Start();
 
             manageFile.GetPath(args);
-            manageAnagrams.PrintDic();
-
 
 
             timer.Stop();
-            Console.WriteLine(timer.Elapsed);
-            
-            
+            Console.WriteLine($"Cantidad de tiempo: {timer.Elapsed}");
+            Console.WriteLine($"Cantidad de palabras: {manageFile.CountFile}");
+            Console.WriteLine($"Cantidad de sets: {manageAnagrams.CountSets}");
+
 
         }
     }
